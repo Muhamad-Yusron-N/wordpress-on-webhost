@@ -1,0 +1,198 @@
+2022-03-22T05:45:05+00:00 ERROR Error getting data feed
+2022-03-22T05:45:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: Unknown SSL protocol error in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-03-22T05:45:05+00:00 ERROR Error getting data feed
+2022-03-22T05:45:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: Unknown SSL protocol error in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-03-22T05:45:06+00:00 ERROR Error getting data feed
+2022-03-22T05:45:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: Unknown SSL protocol error in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-03-22T05:45:06+00:00 ERROR Error getting data feed
+2022-03-22T05:45:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: Unknown SSL protocol error in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-03-22T05:45:06+00:00 ERROR Error getting data feed
+2022-03-22T05:45:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: Unknown SSL protocol error in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-03-22T05:45:06+00:00 ERROR Error getting data feed
+2022-03-22T05:45:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: Unknown SSL protocol error in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-03-22T05:45:06+00:00 ERROR Error getting data feed
+2022-03-22T05:45:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: Unknown SSL protocol error in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-03-22T05:45:06+00:00 ERROR Error getting data feed
+2022-03-22T05:45:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: Unknown SSL protocol error in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-03-22T05:45:06+00:00 ERROR Error getting data feed
+2022-03-22T05:45:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: Unknown SSL protocol error in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
